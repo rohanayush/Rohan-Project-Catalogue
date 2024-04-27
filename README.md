@@ -1,5 +1,8 @@
 # Rohan-Project-Catalogue
+![Rohan Profile Image ](https://res.cloudinary.com/dvfjbyf7s/image/upload/v1519431164/Rohan.jpg)
+
 Hi I like to call myself software "engineer" and I provide expertise in Angular Development and Data Science ( Data Analysis, Machine Learning, SQL and Data Visualization using Tableau) 
+
 
 ### Here I have listed all my projects in offering different expertise
 [Click to View Only Data Science Projects](#ds)
