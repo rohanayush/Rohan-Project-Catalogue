@@ -79,7 +79,7 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 
 ## Backend Projects <a id="flask"></a>
 
-### [ Recipe graphql mongodb api](https://github.com/rohanayush/graphql-recipe-api/tree/main#delete)
+### [ Recipe graphql mongodb api](https://github.com/rohanayush/graphql-recipe-api/tree/main)
 - CRUD operations using graphql apollo-server
 - MONGODB database
 
