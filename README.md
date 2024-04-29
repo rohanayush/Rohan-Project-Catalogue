@@ -14,6 +14,7 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 [Click to View Only Frontend Projects](#fe)
 
 [Click to View Only Backend Projects](#flask)
+
 [Click to View Only Data Visualization Projects](#viz)
 
 
