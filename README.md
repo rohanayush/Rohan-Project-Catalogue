@@ -79,6 +79,10 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 
 ## Backend Projects <a id="flask"></a>
 
+### [ Recipe graphql mongodb api](https://github.com/rohanayush/graphql-recipe-api/tree/main#delete)
+- CRUD operations using graphql apollo-server
+- MONGODB database
+
 ### [News Recommendation API](https://github.com/rohanayush/News-recommendation-on-search-using-ML-and-News-API/tree/master)
 - Made using Flask
 - News API
