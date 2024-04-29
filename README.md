@@ -20,9 +20,6 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 
 
 ## Featured Projects
-### [DS salary analysis](https://github.com/rohanayush/DS-salary-analysis) 
-- A data analysis project that uses data from Kaggle to analyse job market in Data Science among different level of scale of companie, that includes - salaries, opportunities, etc
-
 
 ### [The Photo App](https://github.com/rohanayush/Photo-APP)
 - Uses angular to create a route based photo search engine that use unsplash api
