@@ -8,7 +8,8 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 -  Data Science ( Data Analysis, Machine Learning, SQL and Data Visualization using Tableau) 
 
 
-### Here I have listed all my projects in offering different expertise
+### Here I have listed all my projects that can be offered in different expertises
+
 [Click to View Only Data Science Projects](#ds)
 
 [Click to View Only Frontend Projects](#fe)
