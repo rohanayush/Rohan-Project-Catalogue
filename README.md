@@ -1,7 +1,11 @@
 # Rohan-Project-Catalogue
 ![Rohan Profile Image ](https://res.cloudinary.com/dvfjbyf7s/image/upload/v1519431164/Rohan.jpg)
 
-Hi I like to call myself software "engineer" and I provide expertise in Angular Development and Data Science ( Data Analysis, Machine Learning, SQL and Data Visualization using Tableau) 
+Hi I like to call myself software "engineer" and I provide expertise in :
+- Angular Development
+- Express js , nodejs backend api
+- Flask (python) 
+-  Data Science ( Data Analysis, Machine Learning, SQL and Data Visualization using Tableau) 
 
 
 ### Here I have listed all my projects in offering different expertise
@@ -10,6 +14,7 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 [Click to View Only Frontend Projects](#fe)
 
 [Click to View Only Backend Projects](#flask)
+[Click to View Only Data Visualization Projects](#viz)
 
 
 ## Featured Projects
@@ -33,7 +38,7 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 - Uses NGRX state management to perform CRUD operations and provide notifications
 - RXJS, Angular Material
 
-[Multi Step Form Application](https://github.com/rohanayush/hurrey-app)
+### [Multi Step Form Application](https://github.com/rohanayush/hurrey-app)
 - Angular and css heavy project
 - Form validation for credit cards
 - Custom directives and custom pipes used
@@ -43,8 +48,6 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 - News API
 - Machine learning - cosine similarity 
 - Classification
-
-
 
 
 
@@ -89,16 +92,11 @@ Hi I like to call myself software "engineer" and I provide expertise in Angular 
 - Machine learning - cosine similarity 
 - Classification
 
+## Data Visualization Projects <a id="viz"></a>
 
+### [Games trends visualization](https://public.tableau.com/app/profile/rohan.ayush/viz/shared/YCGD3Q2D4)
+- Analyzed games that shows pattern of last 20 years from 2000 to 2020.
+- The Dataset used over here Sales Data of Games [Link](https://lnkd.in/dwtHmcDp)
+- Visualization can be tweaked to see different patterns over the year with parameters of Zone Sales like Global Sales, Japan Sales(Jp Sales), Europe Sales(EU sales), North America Sales(Na Sales) and Others.
+- Viewer can also select a period for visualization.
 
-
-
-
-
-
-
-
-
-
-
-[ds]:here 
