@@ -105,3 +105,10 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 - Analyzed average salaries based on job title and country location
 - Top 10 Datascience employee residence
 - Employment type distribution like freelancing, remote, fulltime, Part time
+- 
+### [Netflix Stats Analysis ] (https://public.tableau.com/views/NetflixStats_17034440771090/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- Has analysis for popular shows throught the world via map visualization
+- Analyzed top genre
+- Show description visualisation
+- Total movies and shows
+- Show and movies rating and views analyzed
