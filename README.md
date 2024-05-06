@@ -99,3 +99,9 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 - Visualization can be tweaked to see different patterns over the year with parameters of Zone Sales like Global Sales, Japan Sales(Jp Sales), Europe Sales(EU sales), North America Sales(Na Sales) and Others.
 - Viewer can also select a period for visualization.
 
+### [Data Science Salaries Analysis in World](https://public.tableau.com/shared/QN6ND396N?:display_count=n&:origin=viz_share_link)
+- Anlayzed companies by size
+- Analyzed salaries for different levels of experience and company size
+- Analyzed average salaries based on job title and country location
+- Top 10 Datascience employee residence
+- Employment type distribution like freelancing, remote, fulltime, Part time
