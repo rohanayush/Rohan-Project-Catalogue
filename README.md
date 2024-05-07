@@ -67,16 +67,26 @@ Hi I like to call myself software "engineer" and I provide expertise in :
 - Uses NGRX state management to perform CRUD operations and provide notifications
 - RXJS, Angular Material
 
-
+### [ Firebase based login/signup for notes application, Material UI](https://github.com/rohanayush/firstfire)
+- Uses firebase database collection for login and signup
+- Uses flask mail api to mail people based on mail ID
+- Material UI
+  
 ### [The Photo App](https://github.com/rohanayush/Photo-APP)
 - Uses angular to create a route based photo search engine that use unsplash api
 - key features it uses flask api that in itself uses google trends api to recommend terms as the user types to search for images
 - Angular material,RXJS, Routing
 
+### [ Angular search trends application ](https://github.com/rohanayush/Search-trends-Angular-with-Flask-)
+-  Uses Flask in backend with angular on frontend to show analysis for trends
+
 ### [Multi Step Form Application](https://github.com/rohanayush/hurrey-app)
 - Angular and css heavy project
 - Form validation for credit cards
 - Custom directives and custom pipes used
+
+### [ Reactive forms form array ](https://github.com/rohanayush/reactive-forms-angular)
+- Blog regarding this project is available at medium [Medium article](https://medium.com/@rohanayush05/the-easy-way-to-know-how-form-array-works-in-reactive-form-angular-8274671224f7)
 
 
 ## Backend Projects <a id="flask"></a>
